@@ -30,15 +30,15 @@ export const defaultStyles: WalktourStyles = {
     display: 'flex', 
     flexDirection: 'column', 
     zIndex: 9999,
-    fontFamily: 'Roboto, sans-serif',
-    fontSize: 14,
+    // fontFamily: 'Roboto, sans-serif',
+    // fontSize: 14,
     backgroundColor: 'white',
-    padding: '10px 10px 5px 10px',
+    // padding: '10px 10px 5px 10px',
     borderRadius: '5px',
     boxShadow: '0 3px 8px 0 rgba(0,0,0,.25)',
-    color: '#4d4d4d',
-    minWidth: 215, //so that buttons have adequate spacing
-    maxWidth: 285,
+    // color: '#4d4d4d',
+    // minWidth: 215, //so that buttons have adequate spacing
+    // maxWidth: 285,
   },
   footer: {
     display: 'flex',
